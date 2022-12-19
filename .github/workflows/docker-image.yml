@@ -47,5 +47,5 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            herijr/docker-node-linuxtips:latest
-            herijr/docker-node-linuxtips:${{github.run_number}}
+            herijr/punkdodevops:latest
+            herijr/punkdodevops:${{github.run_number}}
